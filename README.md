@@ -31,4 +31,6 @@ trecho das descrições dos itens retirado parcialmente de :
 
 
 
-### **C
+### **DIAGRAMA DE CLASSE**![DiagramaColoniaRPGv2](https://github.com/user-attachments/assets/b0c1b07c-b6d7-4064-9ee8-7f31a9e89744)
+
+
